@@ -1,4 +1,3 @@
-import "./App.css";
 import Button from "./components/Button";
 import PlayList from "./components/PlayList";
 import SearchBar from "./components/SearchBar";

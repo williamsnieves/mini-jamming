@@ -1,10 +1,10 @@
-import Buttom from "./Button";
+import Button from "./Button";
 
 function PlayList() {
   return (
     <div>
       <h1>playlist</h1>
-      <Buttom />
+      <Button />
     </div>
   );
 }

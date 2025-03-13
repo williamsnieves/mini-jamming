@@ -1,5 +1,5 @@
-function Buttom() {
+function Button() {
   return <div> button component</div>;
 }
 
-export default Buttom;
+export default Button;
